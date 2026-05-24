@@ -15,8 +15,5 @@ This dashboard analyzes:
 - Excel
 - Data Visualization
 
-## Dashboard Preview
-(Add screenshot here)
-
-## Project File
-sales_dashboard.twbx
+## Dashboard Link
+https://public.tableau.com/app/profile/ashish.mehara/viz/CustomerAnalyticsOfferInsightsDashboard/CustomerAnalyticsOfferInsightsDashboard
